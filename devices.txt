@@ -1,0 +1,22 @@
+Host	192.168.1.1	Status: up	Manufacturer: {}
+Host	192.168.1.12	Status: up	Manufacturer: {'E0:DC:A0:B2:3E:20': 'Siemens Industrial Automation Products Chengdu'}
+Host	192.168.1.128	Status: up	Manufacturer: {'10:82:86:2E:11:D5': 'Luxshare Precision Industry'}
+Host	192.168.1.13	Status: up	Manufacturer: {'E0:DC:A0:DF:F0:00': 'Siemens Industrial Automation Products Chengdu'}
+Host	192.168.1.130	Status: up	Manufacturer: {}
+Host	192.168.1.14	Status: up	Manufacturer: {}
+Host	192.168.1.15	Status: up	Manufacturer: {'60:52:D0:06:16:06': 'Facts Engineering'}
+Host	192.168.1.204	Status: up	Manufacturer: {'70:5A:0F:30:1E:09': 'Hewlett Packard'}
+Host	192.168.1.209	Status: up	Manufacturer: {'F4:39:09:B8:CB:B6': 'Hewlett Packard'}
+Host	192.168.1.21	Status: up	Manufacturer: {'60:52:D0:06:6F:65': 'Facts Engineering'}
+Host	192.168.1.22	Status: up	Manufacturer: {'E0:DC:A0:B1:1D:AB': 'Siemens Industrial Automation Products Chengdu'}
+Host	192.168.1.23	Status: up	Manufacturer: {'00:D0:7C:1A:1B:C8': 'Koyo Electronics'}
+Host	192.168.1.24	Status: up	Manufacturer: {'00:D0:7C:1A:1C:06': 'Koyo Electronics'}
+Host	192.168.1.25	Status: up	Manufacturer: {'00:0E:C6:F2:1E:98': 'Asix Electronics'}
+Host	192.168.1.27	Status: up	Manufacturer: {'00:E0:62:30:05:EA': 'Host Engineering'}
+Host	192.168.1.33	Status: up	Manufacturer: {'00:50:DB:02:1E:C7': 'Contemporary Control'}
+Host	192.168.1.4	Status: up	Manufacturer: {'98:E7:F4:41:99:68': 'Hewlett Packard'}
+Host	192.168.1.50	Status: up	Manufacturer: {'00:0E:C6:F2:03:23': 'Asix Electronics'}
+Host	192.168.1.53	Status: up	Manufacturer: {}
+Host	192.168.1.73	Status: up	Manufacturer: {'00:05:1B:B1:7F:5C': 'Magic Control Technology'}
+Host	192.168.1.76	Status: up	Manufacturer: {'00:0E:C6:F2:03:E7': 'Asix Electronics'}
+Host	192.168.1.78	Status: up	Manufacturer: {'00:50:DB:02:1E:DA': 'Contemporary Control'}
